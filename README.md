@@ -2,4 +2,4 @@ For this project, we will write a Python program that allows users to compress f
 
 ## Authors
 Joy Offere <JoyOffere>
-<br> Igboerika Onochie <OIgboerika>
+
